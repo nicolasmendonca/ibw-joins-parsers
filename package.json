@@ -1,0 +1,17 @@
+{
+  "name": "joins-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/joins.js",
+  "scripts": {
+    "start": "jest"
+  },
+  "dependencies": {
+    "jest": "26.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
